@@ -11,3 +11,8 @@
 ## 📌 eventHandling _ mouseEnter & mouseLeave
 - mouseenter_and_mouseleave.svelte
 <img width="300" alt="image" src="https://github.com/JooHyeonKim/svelte_study/assets/56497471/a8d06e5f-433b-4d1a-accc-9fec2c7fa6cc">
+
+
+## 📌 eventHandling _ bind: 양방향 데이터 전달
+- eventHandling_bind.svelte
+<img width="300" alt="image" src="https://github.com/JooHyeonKim/svelte_study/assets/56497471/22e78306-a0ff-40e9-829c-fb28da83ccef">
