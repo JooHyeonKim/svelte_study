@@ -8,3 +8,6 @@
 |<img width="400" alt="image" src="https://github.com/JooHyeonKim/svelte_study/assets/56497471/658957ba-62f3-46c4-af0d-3d739784ed2c">|<img width="400" alt="image" src="https://github.com/JooHyeonKim/svelte_study/assets/56497471/b052aeb1-539e-4f6f-86ed-1a31c8bcf720">|
 
 
+## 📌 eventHandling _ mouseEnter & mouseLeave
+
+<img width="400" alt="image" src="https://github.com/JooHyeonKim/svelte_study/assets/56497471/a8d06e5f-433b-4d1a-accc-9fec2c7fa6cc">
