@@ -1,4 +1,4 @@
-# svelte_study
+# 인프런 svelte 입문 가이드를 참고하여 작성하였습니다.
 ## 📌 event_handling_practice.svelte
 
 | 클릭 전 | 클릭 후 |
