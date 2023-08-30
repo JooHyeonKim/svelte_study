@@ -22,3 +22,17 @@
 <img width="290" alt="image" src="https://github.com/JooHyeonKim/svelte_study/assets/56497471/94aab17f-9162-41d8-b0e9-80d2319efc7b">
 
 ## 📌 Store
+App <br>
+ |<br>
+Parent<br>
+ |<br>
+Child
+- App에서 Parent를 거쳐 Child로 데이터를 보내주는 것은 비효율적. 
+- Store : APP -> Child로 직접 데이터를 전달할 수 있게 해줌.
+- store는 객체이므로 변수로 사용하려면 $를 붙여줘야 함.
+
+
+
+
+
+
