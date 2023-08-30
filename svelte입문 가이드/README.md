@@ -19,6 +19,5 @@
 
 ## 📌 Component
 - App.svelte는 Fruits.svelte의 부모 컴포넌트
-
-<img width="290" alt="스크린샷 2023-08-29 오후 11 52 30" src="https://github.com/JooHyeonKim/svelte_study/assets/56497471/be014c11-4fb3-4354-bf00-348189a734ef">
+<img width="290" alt="image" src="https://github.com/JooHyeonKim/svelte_study/assets/56497471/94aab17f-9162-41d8-b0e9-80d2319efc7b">
 
