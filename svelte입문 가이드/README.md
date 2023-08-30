@@ -21,3 +21,4 @@
 - App.svelte는 Fruits.svelte의 부모 컴포넌트
 <img width="290" alt="image" src="https://github.com/JooHyeonKim/svelte_study/assets/56497471/94aab17f-9162-41d8-b0e9-80d2319efc7b">
 
+## 📌 Store
