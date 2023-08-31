@@ -3,6 +3,12 @@
 </script>
 
 <Card>
-	<h2>안녕하세요!</h2>
-	<p>이곳은 내용이 들어가는 영역입니다.</p>
+	<span slot="name">
+		김주현
+	</span>
+
+	<span slot="address">
+		서울특별시<br>
+			양재동
+	</span>
 </Card>
